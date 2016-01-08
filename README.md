@@ -1,6 +1,6 @@
 # simple-node-encryption
 
-This module uses nodes core [crypto](https://nodejs.org/api/crypto.html) module into a simple encryption service.
+This module uses nodes core [crypto](https://nodejs.org/api/crypto.html) module for providing a simple encryption service. Currently only AES algorithms are tested to work, but generally this should work with other ciphers.
 
 ## Usage
 
