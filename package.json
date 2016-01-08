@@ -1,0 +1,27 @@
+{
+  "name": "simple-node-encryption",
+  "version": "1.0.0",
+  "description": "This package provides a simple encryption service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaakkoL/simple-node-encryption.git"
+  },
+  "keywords": [
+    "encryption"
+  ],
+  "author": "Jaakko Laurila <https://github.com/JaakkoL/>",
+  "license": "ISC",
+  "main": "./simple-node-encryption.js",
+  "bugs": {
+    "url": "https://github.com/JaakkoL/simple-node-encryption/issues"
+  },
+  "homepage": "https://github.com/JaakkoL/simple-node-encryption#readme",
+  "devDependencies": {
+    "chai": "3.4.1",
+    "mocha": "2.3.4"
+  }
+}
